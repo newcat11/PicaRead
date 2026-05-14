@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual env (created by setup_and_run.bat)
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Output
+downloads/
+out/
+
+# Session cache
+.bika_session.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive
+password/
+*.token
